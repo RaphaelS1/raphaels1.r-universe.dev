@@ -26,9 +26,5 @@
     {
         "package": "R62S3",
         "url": "https://github.com/xoopR/R62S3"
-    },
-    {
-        "package": "xoop",
-        "url": "https://github.com/xoopR/xoop"
     }
 ]
